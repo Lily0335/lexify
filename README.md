@@ -126,5 +126,5 @@ lexify-smart-dictionary/
 For queries or feedback:  
 - **Name**: Laraib Anwar  
 - **Email**: [laraibanwar00002@gmail.com]  
-- **LinkedIn**: [https://www.linkedin.com/in/laraib-anwar-062553296/](#)  
+- **LinkedIn**: [https://www.linkedin.com/posts/laraib-anwar-062553296_codingjourney-lexify-qt-activity-7264770051336007680-9kbc?utm_source=share&utm_medium=member_desktop]  
 

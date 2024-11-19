@@ -1,4 +1,4 @@
-Here’s an updated **GitHub README** for your **Lexify: Smart Dictionary System** project, including the code structure to reflect your use of `Trie`, `Dictionary`, and `MainWindow` classes:
+
 
 ---
 
@@ -46,7 +46,7 @@ The project is modular, with the following main components:
 
 ---
 
-📐 Data Structures and Algorithms
+## 📐 Data Structures and Algorithms
 
 Lexify is powered by:  
 
@@ -58,12 +58,12 @@ Trie (Prefix Tree)
   Why Trie?  
   Unlike Hash Maps, which lack prefix-based search capabilities, Tries enable efficient autocompletion and storage of large vocabularies.  
 
- Set  
+## Set  
 - Used for quick existence checks of words during file loading and validation.
 
 ---
 
- 📊 Workflow
+## 📊 Workflow
 
 1. **Word Initialization**: Load default words into the system.  
 2. **User Search**: Enter a prefix to get instant suggestions.  
@@ -85,16 +85,6 @@ Trie (Prefix Tree)
 ### **Prerequisites**  
 - Qt Framework installed.  
 - C++ compiler supporting modern C++ standards (C++11 or above).  
-
-### **Installation**  
-
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/yourusername/lexify-smart-dictionary.git  
-   cd lexify-smart-dictionary  
-   ```  
-2. Open the project in Qt Creator or any IDE of your choice.  
-3. Build and run the project.
 
 ---
 
@@ -127,42 +117,14 @@ lexify-smart-dictionary/
 - Voice-based interaction for seamless user experience.  
 - Advanced grammar analysis tools.  
 
----
-
-## 🤝 **Contributing**  
-
-Contributions are welcome! Please follow these steps:  
-
-1. Fork this repository.  
-2. Create a new branch:  
-   ```bash  
-   git checkout -b feature-name  
-   ```  
-3. Commit your changes:  
-   ```bash  
-   git commit -m "Added feature-name"  
-   ```  
-4. Push to the branch:  
-   ```bash  
-   git push origin feature-name  
-   ```  
-5. Open a pull request.
 
 ---
 
-## 🧾 **License**  
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  
-
----
 
 ## 📬 **Contact**  
 
 For queries or feedback:  
 - **Name**: Laraib Anwar  
-- **Email**: [your-email@example.com]  
-- **LinkedIn**: [Your LinkedIn Profile](#)  
+- **Email**: [laraibanwar00002@gmail.com]  
+- **LinkedIn**: [https://www.linkedin.com/in/laraib-anwar-062553296/](#)  
 
----
-
-Replace placeholder fields (like the GitHub link, email, and LinkedIn profile) with your actual details. Let me know if you’d like further assistance! 😊

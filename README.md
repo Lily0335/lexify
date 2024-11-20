@@ -70,6 +70,9 @@ Trie (Prefix Tree)
 3. **Add Words**: Validate and add new words through the interactive UI.  
 4. **Save/Load Data**: Ensure data persistence by integrating file operations.
 
+
+![workflow diagram 1](https://github.com/Lily0335/lexify/blob/main/images/workflow-1.png)
+
 ---
 
 ## 🎨 **Technology Stack**  

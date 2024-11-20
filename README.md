@@ -79,6 +79,14 @@ Trie (Prefix Tree)
 
 ---
 
+## 🧠 Flowchart
+
+The flowchart below depicts the overall process of the smart dictionary system:
+
+![flowchart](https://github.com/Lily0335/lexify/blob/main/images/flowchart.jpeg)
+
+---
+
 ## 🎨 **Technology Stack**  
 
 - **Programming Language**: C++  

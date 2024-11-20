@@ -69,9 +69,13 @@ Trie (Prefix Tree)
 2. **User Search**: Enter a prefix to get instant suggestions.  
 3. **Add Words**: Validate and add new words through the interactive UI.  
 4. **Save/Load Data**: Ensure data persistence by integrating file operations.
-
+  ### Diagram
 
 ![workflow diagram 1](https://github.com/Lily0335/lexify/blob/main/images/workflow-1.png)
+
+
+![workflow diagram 2](https://github.com/Lily0335/lexify/blob/main/images/workflow-2.png)
+
 
 ---
 
